@@ -1,4 +1,4 @@
-# PHP, JS, Python & Arduino C++ examples for decoding data from CSC BLE service
+# PHP, JS, Python & Arduino examples for decoding data from CSC BLE service
 This seems to be an often requested task yet documentation and examples are nearly non-existent, so I took it upon myself to publish this in hope it'll help others.
 
 Full Arduino example for connecting to BLE peripheral with CSC service then read and decode its data:
